@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.author             = { "praza24" => "prasathsrithar@hotmail.co.uk" }
   spec.platform     = :ios, "13.0"
   spec.source       = { :git => "https://github.com/praza24/DummyFramework.git", :tag => "#{spec.version}" }
-  spec.source_files = "DummyFramework/**/*.{swift}"
+  spec.source_files = "DummyFramework/**/*"
 
 end
