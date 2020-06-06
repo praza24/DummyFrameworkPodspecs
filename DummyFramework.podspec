@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DummyFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "This is a dummy cocoapod framework"
   spec.description  = "This is my first cocoapod framework hopefully it works"
   spec.homepage     = "https://github.com/praza24/DummyFramework"
